@@ -1,5 +1,3 @@
-Gemini said
-Here is a high-end, professional README.md for your GitHub repository. It’s written to attract both users and potential collaborators/investors by highlighting the "Premium" nature of the project.
 
 🌌 SplitVision AI
 The Financial Mediator for Social Dining. > Transforming messy receipts into a 10-second conversation through Vision + NLP.
