@@ -1,0 +1,7 @@
+{
+  "name": "SplitVision AI",
+  "description": "A split-screen bill splitting app that uses AI to parse receipts and manage assignments via a smart chat interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
